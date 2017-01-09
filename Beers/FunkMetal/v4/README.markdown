@@ -26,9 +26,10 @@ Amount | Item | When | SRM/IBU
 1 lb 1.3 oz | Torrified Wheat | Mash | 1.5 SRM
 1 lb 1.3 oz | Crystal Malt | Mash | 40.0 SRM
 1 lb 1.3 oz | Flaked Oats | Mash | 1.0 SRM
-2 lbs | Rice hulls | Mash | 0 SRM
+1 lb | Rice hulls | Mash | 0 SRM
 
-Turned off drain from mash tun, pump, and controller. Waited for 20 minutes.
+Turned off drain from mash tun, pump, and controller. Waited for 10 minutes.
+Only stired new grain into the top of the grain bed.
 Mashed at 150F for 45 minutes.
 
 Amount | Item | When | SRM/IBU
@@ -59,7 +60,7 @@ Amount | Item
 1.09 tsp | Yeast Nutrient
 1.0 pkg | Jester King Yeast
 1 | O2 (2 minutes)
-2 spiral | American White Oak medium char
+2 spirals | American White Oak medium char
 
 Finished at 3:00pm
 
