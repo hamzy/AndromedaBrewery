@@ -29,3 +29,5 @@ Calculated yeast starter:
     Braukaiser - stirplate
     DME required: 3.4 oz, 97.0 grams
 ```
+
+![Image of Ryan Harper](https://github.com/hamzy/AndromedaBrewery/raw/master/Beers/AtrialRubicite/v1/IMG_20161111_102247.jpg)
