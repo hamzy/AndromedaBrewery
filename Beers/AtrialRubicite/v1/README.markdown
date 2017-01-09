@@ -1,3 +1,5 @@
+[Untappd information is located here](https://untappd.com/b/hamzy-homebrew-atrial-rubicite-clone-v1-ar1/1901433)
+
 09/09/2016
   - Poured in Überkind version 5.0.A
     - 08/26/2016 Gravity is 1.001 @ 68.55F = 1.002. pH is 3.05 @ 23.9C.
