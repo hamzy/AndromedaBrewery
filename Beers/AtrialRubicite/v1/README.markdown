@@ -14,14 +14,18 @@ Date | Note
 11/11/2016 | Bottled
 
 Calculated priming sugar to use:
+```
     13 gallons * 128 oz/G
     = 1664 oz / 25.36 (oz per 750mL)
     = 65.61 750mL bottles * 5.5grams / 750mL
     ~= 361 grams
     ~= 12.73 oz of sugar
+```
 
 Calculated yeast starter:
+```
     starter Size 1 liter
     gravity 1.034
     Braukaiser - stirplate
     DME required: 3.4 oz, 97.0 grams
+```
