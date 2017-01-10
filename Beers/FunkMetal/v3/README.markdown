@@ -72,3 +72,28 @@ Finished at 4:21pm
 Date | Note
 --- | ---
 03/16/2016 | Primary at 80F
+03/16/2016 | Gravity was 1.050 @ 170.0F = 1.078
+03/20/2016 | Gravity was 1.020 @ 76.11F = 1.022
+03/23/2016 | Gravity was 1.017 @ 77.10F = 1.019
+03/29/2016 | Gravity was 1.016 @ 75.30F = 1.018. Raised temperature to 83F
+04/12/2016 | Put into 60F.
+01/01/2017 | Bottled
+
+Calculated priming sugar to use:
+```
+    6 gallons * 128 oz/G
+    = 768 oz / 25.36 (oz per 750mL)
+    = 30.28 750mL bottles * 5.5grams / 750mL
+    ~= 167 grams
+    ~= 5.891 oz of sugar
+```
+
+Calculated yeast starter:
+```
+    Starter Size 1 liter
+    gravity 1.034
+    Braukaiser - stirplate
+    DME required: 3.4 oz, 97.0 grams
+```
+
+**NOTE:** I poured a couple of ounces from a month old dregs. So if it doesn’t bottle condition, then next time refrigerate more dregs for a bit and use more DME.
