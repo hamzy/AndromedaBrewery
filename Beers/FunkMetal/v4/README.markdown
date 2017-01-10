@@ -1,4 +1,4 @@
-[Untappd information is located here](https://untappd.com/b/hamzy-homebrew-funk-metal-clone-v3-fm3/1901436)
+[Untappd information is located here @TBD](https://untappd.com/)
 
 Started at 7:13 am. Water temperature was 61.2F. Total water needed 14.60 gallons.
 
