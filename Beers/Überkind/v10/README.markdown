@@ -51,3 +51,4 @@ Date | Note
 --- | ---
 12/07/2016 | Primary at 83F
 12/18/2016 | Secondary at 60F
+01/13/2016 | v10.0B Gravity was 1.005 @ 62.04F = 1.006. pH was 3.07 @ 19.2C
