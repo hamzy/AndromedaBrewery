@@ -26,7 +26,7 @@ Amount | Item | When | SRM/IBU
 1 lb | Flaked Oats | Mash | 1.0 SRM
 2 lbs | Rice hulls | Mash | 0 SRM
 
-Turned off drain from mash tun, pump, and controller. Waited for 10 minutes.
+Turned off drain from mash tun, pump, and controller. Waited for 20 minutes.
 Mash started at 8:51 am.  Mashed at 150F for 90 minutes.
 
 Boil volume should be 17.30 gallons. Boil started at 11:10 am.
