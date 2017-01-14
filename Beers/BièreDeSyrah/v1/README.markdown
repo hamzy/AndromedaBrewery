@@ -2,8 +2,8 @@
 
 Date | Note
 --- | ---
-12/23/2016 | Poured in Überkind version v8.0A. Gravity is 1.003 @ 63.10F = 1.004. pH is 3.06 @ 18.9C.
-12/23/2016 | Poured in Überkind version v8.0B. Gravity is 1.003 @ 61.35F = 1.003. pH is 3.22 @ 19.3C.
+12/23/2016 | Poured in [Überkind version v8.0A](https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v8). Gravity is 1.003 @ 63.10F = 1.004. pH is 3.06 @ 18.9C.
+12/23/2016 | Poured in [Überkind version v8.0B](https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v8). Gravity is 1.003 @ 61.35F = 1.003. pH is 3.22 @ 19.3C.
 12/23/2016 | Poured in 5 gallons of 2012 Syrah grapes from [Garnier Vineyards, Mosier, Columbia Gorge AVA, OR](https://morewinemaking.com/products/brehm-fruit-syrah-garnier-vineyards-mosier-columbia-gorge-ava-ca-2012.html)
 01/13/2017 | Transferred off of skins and stems
 01/13/2017 | Added 12 [xoakers 1" balls](https://www.morebeer.com/products/xoakers-med-french-oak.html)
