@@ -1,15 +1,11 @@
 [Untappd information is located here](https://untappd.com/b/hamzy-homebrew-atrial-rubicite-clone-v1-ar1/1901433)
 
-09/09/2016
-  - Poured in Überkind version 5.0.A
-    - 08/26/2016 Gravity is 1.001 @ 68.55F = 1.002. pH is 3.05 @ 23.9C.
-  - Poured in Überkind version 5.0.C
-    - 08/26/2016 Gravity is 1.004 @ 66.45F = 1.005. pH is 3.30 @ 21.3C
-  - Bought 32 bags of H-E-B frozen raspberries and sliced them in a food processor
-  - Poured in ½ gallon of Jester King Dregs
-
 Date | Note
 --- | ---
+09/09/2016 | Poured in [Überkind version 5.0.A](@TODO). Gravity is 1.001 @ 68.55F = 1.002. pH is 3.05 @ 23.9C
+09/09/2016 | Poured in [Überkind version 5.0.C](@TODO). Gravity is 1.004 @ 66.45F = 1.005. pH is 3.30 @ 21.3C
+09/09/2016 | Bought 32 bags of H-E-B frozen raspberries and sliced them in a food processor
+09/09/2016 | Poured in 1/2 gallon of Jester King Dregs
 09/09/2016 | Set chronical to 85.0F
 09/16/2016 | Dropping the temperature to 60F after a week at 85F.
 10/14/2016 | Gravity was 1.005 @ 62.40F 1.006. pH is 3.05.
@@ -33,3 +29,5 @@ Calculated yeast starter:
 ```
 
 ![Image of Ryan Harper](https://github.com/hamzy/AndromedaBrewery/raw/master/Beers/AtrialRubicite/v1/IMG_20161111_102247.jpg)
+
+![Image of Ryan Harper](IMG_20161111_102247.jpg)
