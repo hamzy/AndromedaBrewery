@@ -17,8 +17,8 @@ Brix | 25.9
 pH | 3.5
 TA | 0.85%
 
-![spent syrah must](https://github.com/hamzy/AndromedaBrewery/raw/master/Beers/BièreDeSyrah/v1/IMG_20170113_092828.jpg)
-![transferring between chronicals](https://github.com/hamzy/AndromedaBrewery/raw/master/Beers/BièreDeSyrah/v1/IMG_20170113_091915.jpg)
+![spent syrah must](IMG_20170113_092828.jpg)
+![transferring between chronicals](IMG_20170113_091915.jpg)
 
 **NOTE:** Should have squeezed more juice out of the grapes. Next time, use a large stick blender inside of the bucket before pouring into the chronical
 
