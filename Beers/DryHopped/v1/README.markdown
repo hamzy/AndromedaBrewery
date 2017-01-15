@@ -2,7 +2,7 @@
 
 Date | Note
 --- | ---
-09/09/2016 | Poured in [Überkind version 3.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v3). 1.002 @ 64.77F = 1.003. pH is 2.99 @ 24.3C
+04/21/2016 | Poured in [Überkind version 3.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v3). 1.002 @ 64.77F = 1.003. pH is 2.99 @ 24.3C
 
 Calculated dry hopping rate:
 
@@ -13,7 +13,7 @@ Calculated dry hopping rate:
 Date | Note
 --- | ---
 04/21/2016 | Dry hopped with 2 ounces of Amarillo hops
-10/13/2016 | Secondary?
+04/21/2016 | Secondary?
 06/05/2016 | Bottled
 
 Calculated priming sugar to use:
