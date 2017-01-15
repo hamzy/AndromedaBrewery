@@ -62,3 +62,5 @@ Date | Note
 04/20/2016 | Gravity was 1.004 @ 81.64F = 1.007 (glass)
 04/20/2016 | Gravity was 1.004 @ 81.72F = 1.007 (plastic)
 04/22/2016 | Secondary at 60F
+
+**NOTE:** This is now reversioned as two of 5.0.{A,B,C,D}
