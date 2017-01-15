@@ -18,7 +18,7 @@ Date | Note
 
 Calculated priming sugar to use:
 ```
-    2 tablets of [sugar pills](@TODO)
+    2 tablets of [sugar pills](https://www.morebeer.com/products/carbonation-drops-bag-80.html)
 ```
 
 Calculated yeast starter:
