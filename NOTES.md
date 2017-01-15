@@ -27,3 +27,14 @@ Total 9 (delta 0), reused 0 (delta 0)
 To git@github.com:hamzy/AndromedaBrewery.git
    92bb035..9005b2e  master -> master
 ```
+
+Seeing if qr-code can be modified...
+
+```
+[hamzy@hamzy-tp-w540 ~]$ git clone https://github.com/lincolnloop/python-qrcode.git
+[hamzy@hamzy-tp-w540 ~]$ cd python-qrcode/
+[hamzy@hamzy-tp-w540 python-qrcode]$ virtualenv venv/
+[hamzy@hamzy-tp-w540 python-qrcode]$ venv/bin/python2 setup.py install
+[hamzy@hamzy-tp-w540 python-qrcode]$ venv/bin/qr --factory=svg-path "https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v8" > test.svg
+[hamzy@hamzy-tp-w540 python-qrcode]$ eog test.svg 
+```
