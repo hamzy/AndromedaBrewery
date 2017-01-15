@@ -10,8 +10,6 @@ Infusion Temp | 158.8 F
 
 Set controller to 158.8F
 
-**NOTE:** 161.3F @ 10:14am with some hiccups :)
-
 Added the following to the water:
 
 Amount | Item
