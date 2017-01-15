@@ -23,7 +23,6 @@ Amount | Item | When | SRM/IBU
 --- | --- | --- | ---
 6 lbs 3.9 oz | German Pilsner | Mash | 1.6 SRM
 6 lbs 3.9 oz | Vienna Malt | Mash | 3.5 SRM
-1 lb | Caramunich | Mash | 46.0 SRM
 1 lb 2.7 oz | Aromatic Malt | Mash | 20.0 SRM
 
 Turned off drain from mash tun, pump, and controller. Waited for 20 minutes.
