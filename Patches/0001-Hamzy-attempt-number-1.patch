@@ -1,0 +1,83 @@
+From 84c6c2db81d8aed80245eb4b4f5e3522553462ad Mon Sep 17 00:00:00 2001
+From: Mark Hamzy <hamzy@us.ibm.com>
+Date: Sun, 15 Jan 2017 21:43:43 -0600
+Subject: [PATCH] Hamzy attempt number 1
+
+---
+ qrcode/image/svg.py | 33 ++++++++++++++++++++++++++++++---
+ qrcode/main.py      |  1 +
+ 2 files changed, 31 insertions(+), 3 deletions(-)
+
+diff --git a/qrcode/image/svg.py b/qrcode/image/svg.py
+index e99a66f..831e21a 100644
+--- a/qrcode/image/svg.py
++++ b/qrcode/image/svg.py
+@@ -24,10 +24,17 @@ class SvgFragmentImage(qrcode.image.base.BaseImage):
+         super(SvgFragmentImage, self).__init__(*args, **kwargs)
+         # Save the unit size, for example the default box_size of 10 is '1mm'.
+         self.unit_size = self.units(self.box_size)
++        self._img.append(
++            ET.Element(
++                'rect', fill="white", x='0', y='0', width='100%',
++                height='100%'))
+ 
+     def drawrect(self, row, col):
+         self._img.append(self._rect(row, col))
+ 
++    def drawcircle(self, row, col):
++        self._img.append(self._circle(row, col))
++
+     def units(self, pixels, text=True):
+         """
+         A box_size of 10 (default) equals 1mm.
+@@ -53,12 +60,32 @@ class SvgFragmentImage(qrcode.image.base.BaseImage):
+             **kwargs)
+ 
+     def _rect(self, row, col, tag=None):
++        # https://www.w3.org/TR/SVG/shapes.html#RectElement
+         if tag is None:
+             tag = ET.QName(self._SVG_namespace, "rect")
+-        x, y = self.pixel_box(row, col)[0]
++        x1, y1 = self.pixel_box(row, col)[0]
++        x2, y2 = self.pixel_box(row, col)[1]
++        r = (x2 - x1 + 1) / 2
++        import random
++        color = ["blue", "darkblue", "mediumblue", "navy", "midnightblue"][random.randint(0, 4)]
++        return ET.Element(
++            tag, x=self.units(x1), y=self.units(y1),
++            width=self.unit_size, height=self.unit_size,
++            rx=self.units(r), ry=self.units(r),
++            fill=color)
++
++    def _circle(self, row, col, tag=None):
++        if tag is None:
++            tag = ET.QName(self._SVG_namespace, "circle")
++#       import pdb
++#       pdb.set_trace()
++        x1, y1 = self.pixel_box(row, col)[0]
++        x2, y2 = self.pixel_box(row, col)[1]
++        r = (x2 - x1 + 1) / 2
++        import random
++        color = ["red", "green", "blue"][random.randint(0, 2)]
+         return ET.Element(
+-            tag, x=self.units(x), y=self.units(y),
+-            width=self.unit_size, height=self.unit_size)
++            tag, cx=self.units(x1 + r), cy=self.units(y1 + r), r=self.units(r), fill=color)
+ 
+     def _write(self, stream):
+         ET.ElementTree(self._img).write(stream, xml_declaration=False)
+diff --git a/qrcode/main.py b/qrcode/main.py
+index 4fddd37..26e0b25 100644
+--- a/qrcode/main.py
++++ b/qrcode/main.py
+@@ -277,6 +277,7 @@ class QRCode:
+             for c in range(self.modules_count):
+                 if self.modules[r][c]:
+                     im.drawrect(r, c)
++#                   im.drawcircle(r, c)
+         return im
+ 
+     def setup_timing_pattern(self):
+-- 
+2.7.4
+
