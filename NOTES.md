@@ -33,8 +33,11 @@ Seeing if qr-code can be modified...
 ```
 [hamzy@hamzy-tp-w540 ~]$ git clone https://github.com/lincolnloop/python-qrcode.git
 [hamzy@hamzy-tp-w540 ~]$ cd python-qrcode/
+[hamzy@hamzy-tp-w540 python-qrcode]$ wget --quiet https://raw.githubusercontent.com/hamzy/AndromedaBrewery/master/Patches/0001-Hamzy-attempt-number-1.patch
+[hamzy@hamzy-tp-w540 python-qrcode]$ git am 0001-Hamzy-attempt-number-1.patch
+Applying: Hamzy attempt number 1
 [hamzy@hamzy-tp-w540 python-qrcode]$ virtualenv venv/
 [hamzy@hamzy-tp-w540 python-qrcode]$ venv/bin/python2 setup.py install
-[hamzy@hamzy-tp-w540 python-qrcode]$ venv/bin/qr --factory=svg-path "https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v8" > test.svg
+[hamzy@hamzy-tp-w540 python-qrcode]$ venv/bin/qr --factory=svg --error-correction=H "https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/AtrialRubicite/v1" > test.svg
 [hamzy@hamzy-tp-w540 python-qrcode]$ eog test.svg 
 ```
