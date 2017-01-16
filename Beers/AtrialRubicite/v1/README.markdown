@@ -2,8 +2,8 @@
 
 Date | Note
 --- | ---
-09/09/2016 | Poured in [Überkind version 5.0.A](Beers/%C3%9Cberkind/v5ABCD). Gravity is 1.001 @ 68.55F = 1.002. pH is 3.05 @ 23.9C
-09/09/2016 | Poured in [Überkind version 5.0.C](Beers/%C3%9Cberkind/v5ABCD). Gravity is 1.004 @ 66.45F = 1.005. pH is 3.30 @ 21.3C
+09/09/2016 | Poured in [Überkind version 5.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v5ABCD). Gravity is 1.001 @ 68.55F = 1.002. pH is 3.05 @ 23.9C
+09/09/2016 | Poured in [Überkind version 5.0.C](https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v5ABCD). Gravity is 1.004 @ 66.45F = 1.005. pH is 3.30 @ 21.3C
 09/09/2016 | Bought 32 bags of H-E-B frozen raspberries and sliced them in a food processor
 09/09/2016 | Poured in 1/2 gallon of Jester King Dregs
 09/09/2016 | Set chronical to 85.0F
