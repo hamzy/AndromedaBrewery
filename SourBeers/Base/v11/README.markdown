@@ -51,3 +51,5 @@ Date | Note
 --- | ---
 12/24/2016 | Primary at 83F
 01/01/2017 | Secondary at 60F
+01/29/2017 | v11.0A Gravity was 1.004 @ 61.62F = 1.005. pH is 3.33 @ 18.4C
+01/29/2017 | v11.0B Gravity was 1.004 @ 61.70F = 1.005. pH is 3.30 @ 18.8C
