@@ -2,8 +2,8 @@
 
 Date | Note
 --- | ---
-10/13/2016 | Poured in Überkind version 5.0.B. Gravity is 1.001 @ 68.83F = 1.002. pH is 3.14 @ 23.3C
-10/13/2016 | Poured in Überkind version 5.0.D. Gravity is 1.004 @ 68.83F = 1.005. pH is 3.14 @ 21.7C
+10/13/2016 | Poured in Base version 5.0.B. Gravity is 1.001 @ 68.83F = 1.002. pH is 3.14 @ 23.3C
+10/13/2016 | Poured in Base version 5.0.D. Gravity is 1.004 @ 68.83F = 1.005. pH is 3.14 @ 21.7C
 
 Calculated dry hopping rate:
 

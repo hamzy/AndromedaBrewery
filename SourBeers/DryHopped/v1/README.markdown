@@ -2,7 +2,7 @@
 
 Date | Note
 --- | ---
-04/21/2016 | Poured in [Überkind version 3.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/Beers/%C3%9Cberkind/v3). 1.002 @ 64.77F = 1.003. pH is 2.99 @ 24.3C
+04/21/2016 | Poured in [Base version 3.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/Base/v3). 1.002 @ 64.77F = 1.003. pH is 2.99 @ 24.3C
 
 Calculated dry hopping rate:
 
