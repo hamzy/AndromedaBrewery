@@ -63,8 +63,10 @@ Amount | Item
 1 | O2 (2 minutes)
 2 spirals | American White Oak medium char
 
-Finished at 3:00pm
+**NOTE:** Finished at 3:30pm. 60% efficiency?
 
 Date | Note
 --- | ---
-01/05/2016 | Primary at 83F
+01/05/2017 | Primary at 83F
+01/13/2017 | Secondary at 60F
+01/29/2017 | Gravity was 1.017 @ 61.95F = 1.018. pH is 3.29 @ 17.5C.
