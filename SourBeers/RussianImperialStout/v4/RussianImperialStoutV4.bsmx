@@ -1,14 +1,14 @@
-<Recipes><_MOD_>1971-07-07</_MOD_>
-<Name>Recipes</Name>
+<Selections><_MOD_>1972-01-13</_MOD_>
+<Name>Selections</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
 <Owndata>0</Owndata>
-<TID>123</TID>
+<TID>1</TID>
 <Size>1</Size>
-<_XName>Recipes</_XName>
+<_XName>Selections</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2017-01-08</_MOD_>
-<F_R_NAME>Funk Metal Stout ver 4.0</F_R_NAME>
+<Data><Recipe><_MOD_>2017-01-29</_MOD_>
+<F_R_NAME>Russian Imperial Stout ver 4.0</F_R_NAME>
 <F_R_BREWER>Mark Hamzy</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2017-01-05</F_R_DATE>
@@ -25,7 +25,7 @@
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>2017-01-08</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-01-06</_MOD_>
 <F_E_NAME>BrewEasy&trade; 10 Gallon</F_E_NAME>
 <F_E_MASH_VOL>1920.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>304.0000000</F_E_TUN_MASS>
@@ -52,7 +52,7 @@
 <F_E_WHIRLPOOL_CARRY>0</F_E_WHIRLPOOL_CARRY>
 <F_E_WHIRLPOOL_TIME>0</F_E_WHIRLPOOL_TIME>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>2017-01-08</_MOD_>
+<F_R_STYLE><_MOD_>2017-01-06</_MOD_>
 <F_S_NAME>Russian Imperial Stout</F_S_NAME>
 <F_S_CATEGORY>Strong Stout (&gt;6%)</F_S_CATEGORY>
 <F_S_GUIDE>AABC 2010</F_S_GUIDE>
@@ -138,9 +138,9 @@ Blackout Stout
 </F_S_EXAMPLES>
 <F_S_WEB_LINK></F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>2017-01-08</_MOD_>
+<F_R_MASH><_MOD_>1972-01-02</_MOD_>
 <F_MH_NAME>Single Infusion, Light Body, No Mash Out</F_MH_NAME>
-<F_MH_GRAIN_WEIGHT>415.1627633</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_WEIGHT>415.1627636</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
 <F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
@@ -155,7 +155,7 @@ Blackout Stout
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>2017-01-08</_MOD_>
+<steps><_MOD_>1971-12-19</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -164,10 +164,10 @@ Blackout Stout
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2017-01-08</_MOD_>
+<Data><MashStep><_MOD_>1971-12-28</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>1037.9069083</F_MS_INFUSION>
+<F_MS_INFUSION>1037.9069091</F_MS_INFUSION>
 <F_MS_STEP_TEMP>150.0000000</F_MS_STEP_TEMP>
 <F_MS_STEP_TIME>75.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
@@ -179,7 +179,7 @@ Blackout Stout
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>415.1627633</F_MS_GRAIN_WEIGHT>
+<F_MS_GRAIN_WEIGHT>415.1627636</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>163.4057173</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
@@ -191,7 +191,7 @@ Blackout Stout
 <F_MH_TUN_MASS>304.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>2017-01-08</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-01-06</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -218,7 +218,7 @@ Blackout Stout
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>1969-12-31</_MOD_>
+<F_R_CARB><_MOD_>1971-11-26</_MOD_>
 <F_C_NAME>Corn Sugar</F_C_NAME>
 <F_C_TEMPERATURE>70.0000000</F_C_TEMPERATURE>
 <F_C_TYPE>0</F_C_TYPE>
@@ -226,7 +226,7 @@ Blackout Stout
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>2017-01-08</_MOD_>
+<F_R_AGE><_MOD_>1972-01-21</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -244,7 +244,7 @@ Blackout Stout
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>2017-01-08</_MOD_>
+<Ingredients><_MOD_>1971-12-19</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -253,7 +253,7 @@ Blackout Stout
 <Size>15</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Misc><_MOD_>1971-08-22</_MOD_>
+<Data><Misc><_MOD_>1971-09-03</_MOD_>
 <F_M_NAME>Calcium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -271,7 +271,7 @@ Blackout Stout
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>1</F_ORDER>
 </Misc>
-<Misc><_MOD_>2017-01-08</_MOD_>
+<Misc><_MOD_>2017-01-29</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -289,7 +289,7 @@ Blackout Stout
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Grain><_MOD_>1971-08-23</_MOD_>
+<Grain><_MOD_>1971-09-03</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -316,7 +316,7 @@ Blackout Stout
 <F_G_PRICE>0.1243750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-08-23</_MOD_>
+<Grain><_MOD_>1972-01-08</_MOD_>
 <F_G_NAME>Black (Patent) Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -344,7 +344,7 @@ Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger
 <F_G_PRICE>0.1306250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-08-23</_MOD_>
+<Grain><_MOD_>1971-09-03</_MOD_>
 <F_G_NAME>Brown Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -371,7 +371,7 @@ Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger
 <F_G_PRICE>0.1281250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 60L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-08-23</_MOD_>
+<Grain><_MOD_>1971-09-03</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 40L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -399,7 +399,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.1181250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-08-22</_MOD_>
+<Grain><_MOD_>1971-09-03</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt -120L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -427,7 +427,7 @@ Also called &quot;Crystal&quot; malt.  Very Dark</F_G_NOTES>
 <F_G_PRICE>0.1181250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-08-22</_MOD_>
+<Grain><_MOD_>1971-09-03</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -456,7 +456,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.1306250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-08-22</_MOD_>
+<Grain><_MOD_>1971-09-03</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -486,7 +486,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2017-01-08</_MOD_>
+<Grain><_MOD_>2017-01-29</_MOD_>
 <F_G_NAME>Roasted Barley</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -515,7 +515,7 @@ Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-06-22</_MOD_>
+<Grain><_MOD_>1972-01-15</_MOD_>
 <F_G_NAME>Wheat - Red Malt (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -545,7 +545,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-07-22</_MOD_>
+<Grain><_MOD_>2017-01-29</_MOD_>
 <F_G_NAME>Wheat, Torrified</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -575,7 +575,7 @@ Protein rest recommended when mashing</F_G_NOTES>
 <F_G_PRICE>0.1181250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1971-07-28</_MOD_>
+<Hops><_MOD_>2017-01-29</_MOD_>
 <F_H_NAME>Goldings, East Kent</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -599,7 +599,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2017-01-08</_MOD_>
+<Misc><_MOD_>2017-01-29</_MOD_>
 <F_M_NAME>Malto-Dextrine</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Adds Body</F_M_USE_FOR>
@@ -617,7 +617,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>14</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1971-07-18</_MOD_>
+<Yeast><_MOD_>2017-01-29</_MOD_>
 <F_Y_NAME>French Saison</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>3711</F_Y_PRODUCT_ID>
@@ -649,7 +649,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>2017-01-08</_MOD_>
+<AgeData><_MOD_>1971-12-11</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -709,4 +709,4 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 </Recipe>
 </Data>
 <_TExpanded>1</_TExpanded>
-</Recipes>
+</Selections>
