@@ -49,4 +49,5 @@ Date | Note
 --- | ---
 11/23/2016 | Primary at 83F
 12/02/2016 | Secondary at 60F
-01/13/2016 | v9.0B Gravity was 1.002 @ 63.49F = 1.003. pH was 3.99 @ 20.5C
+01/13/2017 | v9.0B Gravity was 1.002 @ 63.49F = 1.003. pH was 3.99 @ 20.5C
+01/29/2017 | Drain pour!
