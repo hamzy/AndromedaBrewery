@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
 <RECIPE>
- <NAME>&#220;berkind ver 9.0</NAME>
+ <NAME>Base ver 10.0</NAME>
  <VERSION>1</VERSION>
  <TYPE>All Grain</TYPE>
  <BREWER>Mark Hamzy</BREWER>
@@ -322,7 +322,7 @@ Protein rest recommended unless flakes are pregelatinized</NOTES>
  <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
  <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
  <DISPLAY_CARB_TEMP>70.0 F</DISPLAY_CARB_TEMP>
- <DATE>23 Nov 2016</DATE>
+ <DATE>07 Dec 2016</DATE>
  <EST_OG>1.052 SG</EST_OG>
  <EST_FG>1.005 SG</EST_FG>
  <EST_COLOR>5.7 SRM</EST_COLOR>

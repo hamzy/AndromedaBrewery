@@ -1,4 +1,4 @@
-<Selections><_MOD_>1971-05-04</_MOD_>
+<Selections><_MOD_>1972-01-18</_MOD_>
 <Name>Selections</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
@@ -7,11 +7,11 @@
 <Size>1</Size>
 <_XName>Selections</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2017-01-12</_MOD_>
-<F_R_NAME>&Uuml;berkind ver 11.0</F_R_NAME>
+<Data><Recipe><_MOD_>2017-01-29</_MOD_>
+<F_R_NAME>Base ver 9.0</F_R_NAME>
 <F_R_BREWER>Mark Hamzy</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2016-12-24</F_R_DATE>
+<F_R_DATE>2016-11-23</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_FOLDER_NAME></F_R_FOLDER_NAME>
 <F_R_VOLUME_MEASURED>1664.0000000</F_R_VOLUME_MEASURED>
@@ -103,7 +103,7 @@
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2017-01-12</_MOD_>
+<Data><MashStep><_MOD_>2017-01-29</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>1100.0000000</F_MS_INFUSION>
@@ -192,7 +192,7 @@
 <Size>8</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Misc><_MOD_>1971-06-02</_MOD_>
+<Data><Misc><_MOD_>1971-09-02</_MOD_>
 <F_M_NAME>Calcium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -210,7 +210,7 @@
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>1</F_ORDER>
 </Misc>
-<Misc><_MOD_>2017-01-12</_MOD_>
+<Misc><_MOD_>2017-01-29</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -228,7 +228,7 @@
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Grain><_MOD_>1971-05-28</_MOD_>
+<Grain><_MOD_>1971-09-02</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Ger</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -255,7 +255,7 @@
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1971-06-11</_MOD_>
+<Grain><_MOD_>2017-01-29</_MOD_>
 <F_G_NAME>Wheat, Torrified</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -285,7 +285,7 @@ Protein rest recommended when mashing</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2017-01-12</_MOD_>
+<Grain><_MOD_>2017-01-29</_MOD_>
 <F_G_NAME>Caramunich II</F_G_NAME>
 <F_G_ORIGIN>German</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -312,7 +312,7 @@ Protein rest recommended when mashing</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2017-01-12</_MOD_>
+<Grain><_MOD_>2017-01-29</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -342,7 +342,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2017-01-12</_MOD_>
+<Hops><_MOD_>1971-12-28</_MOD_>
 <F_H_NAME>Goldings, East Kent</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -366,7 +366,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2017-01-12</_MOD_>
+<Yeast><_MOD_>2017-01-29</_MOD_>
 <F_Y_NAME>French Saison</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>3711</F_Y_PRODUCT_ID>
@@ -379,7 +379,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>8</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
-<F_Y_BREW_DATE>2016-12-24</F_Y_BREW_DATE>
+<F_Y_BREW_DATE>2016-11-23</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2016-02-14</F_Y_PKG_DATE>
 <F_Y_CELLS>100.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
@@ -444,7 +444,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_R_GRAIN_STEEP_TIME>30</F_R_GRAIN_STEEP_TIME>
 <F_R_GRAIN_STEEP_TEMP>155.0000000</F_R_GRAIN_STEEP_TEMP>
 <F_R_INCLUDE_STARTER>0</F_R_INCLUDE_STARTER>
-<F_R_VERSION>11.0000000</F_R_VERSION>
+<F_R_VERSION>9.0000000</F_R_VERSION>
 <F_R_STARTER_SIZE>0.0000000</F_R_STARTER_SIZE>
 <F_R_STIR_PLATE>0</F_R_STIR_PLATE>
 <F_R_OLD_VOL>640.0000000</F_R_OLD_VOL>
