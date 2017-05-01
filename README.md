@@ -9,3 +9,4 @@ These are the beer that I have brewed:
   - A sour base beer that has been dry hopped with ginger with a bottle cap label of [G3](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/Ginger/v3)
   - A Flander's Red beer with honey with a bottle cap label of [FH1](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/FlandersRedHoney/v1)
   - Prickly Pear fruit refermented on a sour base beer with a bottle cap label of [PP1](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/PricklyPear/v1)
+  - Syrah grapes refermented on a sour base beer with a bottle cap label of [BDS1](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/Syrah/v1)
