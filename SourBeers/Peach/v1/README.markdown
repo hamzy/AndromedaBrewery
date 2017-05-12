@@ -2,11 +2,11 @@
 
 Date | Note
 --- | ---
-04/24/2017 Ed Rozmiarek gave me three bags of peaches from his tree. I roughly quarted them, removed the pits, placed them into ziploc bags, and put them in the freezer.
-05/05/2017 After defrosting them in the refrigerator for two days, I started the sour refermentation
-05/05/2017 3.08+3.06+3.12+4.0+3.05+4.02 = 20.33 peaches from Ed, plus 4 16 oz frozen HEB sliced peaches
-05/05/2017 Poured in [Base version 11.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/Base/v11). Gravity was 1.004 @ 61.62F = 1.005. pH is 3.33 @ 18.4C
-05/05/2017 Poured in [Base version 12.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/Base/v12). Gravity was 1.006 @ 66.11F = 1.007. pH is 3.01 @ 21.0C
+04/24/2017 | Ed Rozmiarek gave me three bags of peaches from his tree. I roughly quarted them, removed the pits, placed them into ziploc bags, and put them in the freezer.
+05/05/2017 | After defrosting them in the refrigerator for two days, I started the sour refermentation
+05/05/2017 | 3.08+3.06+3.12+4.0+3.05+4.02 = 20.33 peaches from Ed, plus 4 16 oz frozen HEB sliced peaches
+05/05/2017 | Poured in [Base version 11.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/Base/v11). Gravity was 1.004 @ 61.62F = 1.005. pH is 3.33 @ 18.4C
+05/05/2017 | Poured in [Base version 12.0.A](https://github.com/hamzy/AndromedaBrewery/tree/master/SourBeers/Base/v12). Gravity was 1.006 @ 66.11F = 1.007. pH is 3.01 @ 21.0C
 05/05/2017 15 ish gallons?
 05/05/2017 | Poured in 1/2 gallon of Jester King Dregs
 05/05/2017 | Set chronical to 85.0F
