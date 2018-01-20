@@ -26,7 +26,15 @@ Amount | Item | When | SRM/IBU
 1 lbs | Rice hulls | Mash | 0 SRM
 
 Turned off drain from mash tun, pump, and controller. Waited for 20 minutes.
-Mash started at 8:20 am.  Mashed at 153F for 60 minutes.
+Mash started at 8:20 am.
+
+**NOTE:** 16gal*128oz/8oz = 256*1.95615g = 500.7744 grams. However, 90+% full bag was 439 grams, so using that much.
+
+Amount | Item | When
+--- | --- | ---
+439 g | Decaffeinated Darjeeling Black Tea | Mash
+
+Mashed at 153F for 60 minutes.
 
 Boil volume should be 19.93 gallons. Boil started at 11:08 am.
 Gravity was 1.010 @ 168.5F = 1.036.  Gravity should be 1.021.
