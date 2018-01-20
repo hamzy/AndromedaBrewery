@@ -28,7 +28,7 @@ Amount | Item | When | SRM/IBU
 Turned off drain from mash tun, pump, and controller. Waited for 20 minutes.
 Mash started at 8:20 am.
 
-**NOTE:** 16gal*128oz/8oz = 256*1.95615g = 500.7744 grams. However, 90+% full bag was 439 grams, so using that much.
+**NOTE:** ```16gal*128oz/8oz = 256*1.95615g = 500.7744 grams. However, 90+% full bag was 439 grams, so using that much.```
 
 Amount | Item | When
 --- | --- | ---
