@@ -1,3 +1,5 @@
+[Untappd information is located here](https://untappd.com/b/hamzy-homebrew-suppai-no-cha-version-3-0-sc3/2495545)
+
 Started at 7:23 am. Water temperature was 62.1F. Total water needed 22.15 gallons.
 
 Type | Value
@@ -74,6 +76,6 @@ Calculated priming sugar to use:
 
 Date | Note
 --- | ---
-11/31/2018 | Only bottled 60 bottles though since I ran out of bottles
+01/31/2018 | Only bottled 60 bottles though since I ran out of bottles
 
 ![Image of tea pellicle](IMG_20180131_072906.jpg)
