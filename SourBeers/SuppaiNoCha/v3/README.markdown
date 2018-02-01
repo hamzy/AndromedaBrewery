@@ -59,3 +59,27 @@ Date | Note
 --- | ---
 01/07/2017 | Final gravity was 1.027 @ 68.34F = 1.028. pH is 5.11 @ 22.8C
 01/21/2018 | Gravity is 1.008 @ 69.78F = 1.009. pH is 3.73 @ 19.6C
+01/31/2018 | Bottled
+01/31/2018 | Started at 7:30am, finished cleaning everything at 12:30pm
+
+Calculated priming sugar to use:
+```
+    13.75 gallons * 128 oz/G
+    = 1760 oz / 25.36 (oz per 750mL)
+    = 69.40 750mL bottles * 5.0 grams / 750mL
+    ~= 347 grams
+    ~= 12.24 oz of sugar
+
+    Note: It is still partially carbonated, so using 4 grams instead of 5.
+          Honey is around 1.040, dextrose is 1.046. So 5 grams becomes 1.005769231×4 = 4.03
+    16 gallons * 128 oz/G
+    = 2048 oz / 25.36 (oz per 750mL)
+    = 80.75 750mL bottles * 4.03 grams / 750mL
+    ~= 325.45 grams of honey
+```
+
+Date | Note
+--- | ---
+11/31/2018 | Only bottled 60 bottles though since I ran out of bottles
+
+![Image of tea pellicle](IMG_20180131_072906.jpg)
