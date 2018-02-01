@@ -64,12 +64,6 @@ Date | Note
 
 Calculated priming sugar to use:
 ```
-    13.75 gallons * 128 oz/G
-    = 1760 oz / 25.36 (oz per 750mL)
-    = 69.40 750mL bottles * 5.0 grams / 750mL
-    ~= 347 grams
-    ~= 12.24 oz of sugar
-
     Note: It is still partially carbonated, so using 4 grams instead of 5.
           Honey is around 1.040, dextrose is 1.046. So 5 grams becomes 1.005769231×4 = 4.03
     16 gallons * 128 oz/G
