@@ -30,16 +30,18 @@ Amount | Item | When | SRM/IBU
 Turned off drain from mash tun, pump, and controller. Waited for 20 minutes.
 Mash started at 9:07 am.
 
-**NOTE:** 16 gallons * 128 ounces / 8 ounces in cup = 256 cups * 2.5 grams per cup = 640 grams
-1 pound bag = 460 grams
+Mashed at 153F for 60 minutes.  Brought up to 195F.
+
+**NOTE:** 16 gallons * 128 ounces / 8 ounces in cup = 256 cups * 2.5 grams per cup = 640 grams.
+(1 pound bag = 460 grams)
 
 Amount | Item | When
 --- | --- | ---
-640 g | Decaffeinated Courtlodge Ceylon Black Tea
+640 g | Decaffeinated Courtlodge Ceylon Black Tea | 195F
 
 **NOTE:** filter screen is too small to handle the tea after rehydrating. Had to manually dunk it in and out
 
-Mashed at 153F for 60 minutes.
+Steep for 5 minutes.
 
 Boil volume should be 18.5 gallons. Boil started at 11:18 am.
 Gravity was 1.022 @ 80.53F = 1.025.  Gravity should be 1.021.
